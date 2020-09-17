@@ -1,7 +1,17 @@
 # Server
 
-# Starting the App
-`node index.js `
+# Starting the App in Dev
+This starts up both the client and the backend server:
+
+```
+npm run dev
+```
+
+To start up only the backend run:
+
+```
+npm run server
+```
 
 # APIs
 
